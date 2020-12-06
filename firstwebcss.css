@@ -1,0 +1,90 @@
+/* myStyle.css */
+
+   h1 {
+    position: absolute;
+width: 921px;
+height: 79px;
+left: 28px;
+top: 100px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 65px;
+line-height: 79px;
+text-align: left;
+
+color: #000839;
+   }
+
+   p {
+    position: absolute;
+width: 911px;
+height: 373px;
+left: 51px;
+top: 315px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 41px;
+
+color: #0E0E0E;
+
+    
+   }
+
+   button{
+    position: absolute;
+width: 396px;
+height: 120px;
+left: 0px;
+top: 100px;
+color: #FFFFFF;
+background: #000839;
+border-radius: 10px;
+font-size: 30px;
+   }
+
+.boxed{
+   position: absolute;
+   width: 420px;
+   height: 270px;
+   left: 970px;
+   top: 58px;
+   
+   background-color: #FFA41B;
+}
+
+.yellowboxed{
+    position: absolute;
+    width: 420px;
+    height: 270px;
+    left: 970px;
+    top: 696px;
+
+    background-color: #FFA41B;
+}
+
+.image{
+    object-fit: fill;
+    position: absolute;
+width: 340px;
+height: 320px;
+left: 1010px;
+top: 352px;
+border: 10px solid #000839;
+box-sizing: border-box;
+background-image: url("https://bit.ly/fcc-relaxing-cat");
+border-radius: 50%;
+
+
+}
+
+
+.form{
+    position: absolute;
+    color: #000839;
+    top: 350px;
+}
